@@ -15,7 +15,7 @@ class Seclarge {
 		int large = a[0];
 		for(i=1;i<n;i++)
 		{
-			if(a[i]>small)
+			if(a[i]>large)
    			{
    			    sl=large;
 	   			large = a[i];
