@@ -21,6 +21,6 @@ class Seclarge {
 	   			large = a[i];
 			}
 		}
-		System.out.println(large);
+		System.out.println(sl);
     }
 }
